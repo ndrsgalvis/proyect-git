@@ -12,3 +12,8 @@
 .container > h1 {
     color: aquamarine;
 }
+
+.cabecera{
+    background-color: beige;
+    padding: 2em;
+}
